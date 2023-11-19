@@ -1,0 +1,5 @@
+baseURL: 'https://blog.jpowelld.com/'
+languageCode: 'en-us'
+title: 'blog blog'
+paginate: 5
+theme: PaperMod
